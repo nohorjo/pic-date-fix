@@ -1,0 +1,19 @@
+{
+  "name": "pic-date-fix",
+  "version": "1.0.0",
+  "description": "Fix dates on files based on their name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nohorjo/pic-date-fix.git"
+  },
+  "author": "Muhammed Haque",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nohorjo/pic-date-fix/issues"
+  },
+  "homepage": "https://github.com/nohorjo/pic-date-fix#readme"
+}
